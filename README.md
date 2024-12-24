@@ -19,7 +19,7 @@ Welcome to the **Shop Jacket Responsive Website**! This website is designed to s
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/kuldeep2300/Shop-Jacket-css.git
+   git clone https://github.com/kuldeep23/shop-jacket-website.git
    ```
 
 2. **Navigate to the Project Directory**:
