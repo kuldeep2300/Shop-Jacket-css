@@ -39,10 +39,10 @@ Welcome to the **Shop Jacket Responsive Website**! This website is designed to s
 ## Screenshots
 
 ### Desktop View:
-![Desktop View](image.png)
+![Desktop View](public/image.png)
 
 ### Mobile View:
-![Mobile View](image-1.png)
+![Mobile View](public/image-1.png)
 
 ## Future Enhancements
 
